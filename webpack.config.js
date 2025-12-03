@@ -96,7 +96,7 @@ module.exports = {
         splitChunks: isDev ? false : {
             chunks: 'all', // In production, enable aggressive code splitting
             minSize: 20 * 1024,   // Min chunk size (20KB)
-            // maxSize: 244 * 1024,  // Try splitting large files
+            maxSize: 244 * 1024,  // Try splitting large files
         },
         runtimeChunk: isDev ? false : 'single',
 
