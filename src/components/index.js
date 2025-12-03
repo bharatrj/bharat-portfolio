@@ -10,7 +10,6 @@ import Footer from "./Footer";
 import Home from "./Home";
 import About from "./About";
 import Contact from "./Contact";
-import Experience from "./Experience";
 import Technologies from "./Technologies";
 import Service from './service';
 import Projects from "./Projects";
@@ -26,7 +25,6 @@ function App() {
       <main className="container">
         <Home />
         <About />
-        <Experience />
         <Technologies />
         <Service />
         <Projects />

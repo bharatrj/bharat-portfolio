@@ -3,6 +3,7 @@ body {
     margin: 0;
     background-color: #6c757d26;
     transition: background 0.4s, color 0.4s;
+    overflow-x: hidden;
 }
 
 .container {
@@ -120,5 +121,13 @@ footer {
 
     .hero-content h1 {
         font-size: 2rem;
+    }
+    
+    .details{
+        padding: 0 0 0 30%;
+    }
+
+    .socials a{
+        font-size: 25px;
     }
 }
