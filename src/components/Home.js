@@ -22,7 +22,8 @@ function Home() {
           <div className="socials">
             <a href="https://www.instagram.com/052bharat/" target="_blank"><i className="fab fa-instagram"></i></a>
             <a href="https://github.com/bharatrj/" target="_blank"><i className="fab fa-github"></i></a>
-            <a href="http://linkedin.com/in/bharat-jograna-630862165/" target="_blank"><i className="fab fa-linkedin"></i></a>
+            <a href="https://linkedin.com/in/bharat-jograna-630862165/" target="_blank"><i className="fab fa-linkedin"></i></a>
+            <a href="https://bharat-portfolio-six.vercel.app/" target="_blank"><i className="fa-solid fa-globe"></i></a>
           </div>
         </div>
       </section>

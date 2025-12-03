@@ -1,12 +1,8 @@
 
 /* ===== Dark Theme ===== */
 .dark-theme {
-    background-color: #0f0f0f;
+    background-color: #1e1e1e;
     color: #e5e5e5;
-}
-
-.dark-theme #main-header {
-    background: rgba(20, 20, 20, 0.95);
 }
 
 .dark-theme #main-header nav a,
@@ -25,8 +21,4 @@
 
 .dark-theme .service-box ul {
     color: #ccc;
-}
-
-.dark-theme footer {
-    color: #aaa;
 }

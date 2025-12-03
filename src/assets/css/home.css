@@ -1,12 +1,8 @@
 /* ===== Hero Section ===== */
 
 section.row {
-    display: flex;
     align-items: center;
-    justify-content: center;
     padding: 60px 40px;
-    width: 100%;
-    font-family: "Inter", sans-serif;
 }
 
 /* Left side - Profile image */
@@ -74,8 +70,9 @@ section.row>div h3:nth-of-type(2) {
 /* Social icons */
 .socials a {
     margin-right: 18px;
-    font-size: 30px;
+    font-size: 45px;
     transition: 0.5s ease;
+    color: inherit;
 }
 
 .socials a:hover {

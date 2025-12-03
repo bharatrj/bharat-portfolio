@@ -4,7 +4,7 @@ function Footer() {
   return (
     <React.Fragment>
       <footer>
-        <p>©️ 2025 created with ❤️ by Bharat Jograna </p>
+        <p>©️ 2025 Bharat Jograna. All Rights Reserved.</p>
       </footer>
     </React.Fragment>
   );

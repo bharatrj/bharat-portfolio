@@ -1,0 +1,31 @@
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    /* Adjust as needed */
+    right: 20px;
+    /* Adjust as needed */
+    z-index: 1000;
+    /* Ensure it's above other content */
+}
+
+.top-button {
+    background-color: #007bff;
+    /* Example color */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    /* Makes it a circle */
+    height: 50px;
+    width: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    /* Optional: add a smooth transition for appearance/disappearance if using CSS classes to hide/show */
+}
+
+.top-button:hover {
+    background-color: #0056b3;
+}

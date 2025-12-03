@@ -14,6 +14,7 @@ import Experience from "./Experience";
 import Technologies from "./Technologies";
 import Service from './service';
 import Projects from "./Projects";
+import ScrollToTopButton from './ScrollToTopButton';
 
 import "../assets/css/style.css"
 
@@ -31,6 +32,7 @@ function App() {
         <Projects />
         <Contact />
       </main>
+      <ScrollToTopButton />
       <Footer />
     </React.Fragment>
   );
